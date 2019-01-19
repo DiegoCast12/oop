@@ -156,4 +156,4 @@ Retorna el status de la `Batalla` basado en el tamaño de la armada.
 - debería recibir **0 argumentos**
 - **Si el arreglo de `Sith` se acaba**, debería retornar _**"Jedis have won the war of the century!"**_
 - **Si el arreglo de `Jedi` se acaba**, debería retornar _**"Sith have won the war of the century"**_
-- **Si hay al menos 1 `Jedi` y 1 `Saxon`**, debería retornar _**"Jedis and Saxons are still in the thick of battle."**_
+- **Si hay al menos 1 `Jedi` y 1 `Sith`**, debería retornar _**"Jedis and Siths are still in the thick of battle."**_
