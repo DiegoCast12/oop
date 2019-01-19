@@ -1,5 +1,3 @@
-const { Guerrero, Jedi, Sith, Batalla } = require('./src/batalla');
-
 describe("Guerrero", function () {
   let guerrero;
   let strength = 150;
